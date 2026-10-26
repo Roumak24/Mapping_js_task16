@@ -1,0 +1,1 @@
+This task is on understanding mapping in javascript.I made simple but working search bar and provided some students records to search by their name.
